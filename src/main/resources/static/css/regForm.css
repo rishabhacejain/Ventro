@@ -1,0 +1,55 @@
+/* You might need some minor adjustments here if the form layout differs significantly */
+        .registration-container {
+            /* We'll adapt the login-container style */
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 350px;
+            text-align: center;
+            margin: 50px auto; /* Center on the page */
+        }
+
+        .register-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            font-size: 1em;
+            margin-bottom: 15px; /* Add some spacing between fields */
+        }
+
+        .register-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1.1em;
+            width: 100%;
+            display: block;
+            margin-top: 20px;
+        }
+
+        .register-button:hover {
+            background-color: #0056b3;
+        }
+
+        .login-link {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        .login-link a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .login-link a:hover {
+            text-decoration: underline;
+        }
