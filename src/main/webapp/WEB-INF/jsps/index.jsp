@@ -245,6 +245,7 @@
                 <div class="footer-col">
                     <h4>Social</h4>
                     <ul>
+                        <li><a href="adminDashboard"><i class="fas fa-user-shield"></i> Admin</a></li>
                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i> Facebook</a></li>
                         <li><a href="#"><i class="fa-brands fa-twitter"></i> Twitter</a></li>
                         <li><a href="#"><i class="fa-brands fa-youtube"></i> YouTube</a></li>
